@@ -1,0 +1,12 @@
+br\com\joseprado\entity\Jogo.class
+br\com\joseprado\controller\ArquivoController.class
+br\com\joseprado\factory\OrganizaLogFactory.class
+br\com\joseprado\util\Util.class
+br\com\joseprado\dao\impl\acoesDaoImpl.class
+br\com\joseprado\dao\acoesDao.class
+br\com\joseprado\util\HibernateUtil.class
+br\com\joseprado\dao\jogoDao.class
+br\com\joseprado\entity\Acoes.class
+br\com\joseprado\controller\IndexController.class
+br\com\joseprado\dao\impl\jogoDaoImpl.class
+br\com\joseprado\entity\Resultado.class
